@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:32.864129
+#+DATE: 2015-08-30 20:16:35.911726
 #+TITLE: 大乘入楞伽經
 #+PROPERTY: CBETA_ID T16n0672
 #+PROPERTY: ID KR6i0329
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 672
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0329_T_007-0631a> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《大乘入楞伽經》卷第七¶
+《大乘入楞伽經》卷第七¶
 ¶
 大周于闐國三藏法師¶
 實叉難陀奉　勅譯¶
@@ -1221,7 +1220,7 @@
 　衣金俱不壞，
 　心離過亦然。¶
 　無智者推求，
-　箜篌䗍鼓等；¶
+　箜篌[彖/虫]鼓等；¶
 　而覓妙音聲，
 　蘊中我亦爾。¶
 　猶如伏藏寶，
@@ -1451,7 +1450,7 @@
 　所作因滅壞，
 　是妄計所立。¶
 　若妄計所立，
-　如燈及種子，¶
+　加燈及種子，¶
 　一能生多者，
 　但相似非多；¶
 　胡麻不生豆，

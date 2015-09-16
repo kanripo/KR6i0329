@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:32.747441
+#+DATE: 2015-08-30 20:16:35.798662
 #+TITLE: 大乘入楞伽經
 #+PROPERTY: CBETA_ID T16n0672
 #+PROPERTY: ID KR6i0329
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 672
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0329_T_004-0607b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大乘入楞伽經》卷第四¶
+《大乘入楞伽經》卷第四¶
 ¶
 大周于闐國三藏法師¶
 實叉難陀奉　勅譯¶
 
-3無常品(四-五)
-:PROPERTIES:
-:head: 無常品第三之一
-:END:
-¶
+無常品第三之一¶
 
 爾時佛告大慧菩薩摩訶薩言：「今當為汝¶
 說意成身差別相。諦聽！諦聽！善思念之！」
@@ -743,7 +738,7 @@
 #+END_VERSE
 」¶
 
-「復次，大慧！愚癡凡夫無始虛偽，惡邪分別之¶
+「復次，大慧！愚礙凡夫無始虛偽，惡邪分別之¶
 所幻惑，不了如實及言說法，計心外相著¶
 方便說，不能修習清淨真實離四句法。」
 

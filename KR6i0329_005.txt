@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:32.787725
+#+DATE: 2015-08-30 20:16:35.833400
 #+TITLE: 大乘入楞伽經
 #+PROPERTY: CBETA_ID T16n0672
 #+PROPERTY: ID KR6i0329
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 672
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0329_T_005-0614c> ¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大乘入楞伽經》卷第五¶
+《大乘入楞伽經》卷第五¶
 ¶
 大周于闐國三藏法師¶
 實叉難陀奉　勅譯¶
@@ -485,11 +484,7 @@
 #+END_VERSE
 」¶
 
-4現證品(五)
-:PROPERTIES:
-:head: 《大乘入楞伽經》現證品第四
-:END:
-¶
+《大乘入楞伽經》現證品第四¶
 
 爾時大慧菩薩摩訶薩復白佛言：「世尊！願為¶
 我說一切聲聞緣覺入滅次第相續相，令¶
@@ -584,11 +579,7 @@
 #+END_VERSE
 」¶
 
-5如來常無常品(五)
-:PROPERTIES:
-:head: 《大乘入楞伽經》如來常無常品第五
-:END:
-¶
+《大乘入楞伽經》如來常無常品第五¶
 
 爾時大慧菩薩摩訶薩復白佛言：「世尊！如來、¶
 應、正等覺，為常為無常？」
@@ -641,11 +632,7 @@
 #+END_VERSE
 」¶
 
-6剎那品(五)
-:PROPERTIES:
-:head: 《大乘入楞伽經》剎那品第六
-:END:
-¶
+《大乘入楞伽經》剎那品第六¶
 
 爾時大慧菩薩摩訶薩復白佛言：「世尊！惟¶
 願為我說蘊、界、處生滅之相，若無有我，誰¶
