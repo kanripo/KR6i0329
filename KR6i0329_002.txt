@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:32.678602
+#+DATE: 2015-08-30 20:16:36.227592
 #+TITLE: 大乘入楞伽經
 #+PROPERTY: CBETA_ID T16n0672
 #+PROPERTY: ID KR6i0329
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 672
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0329_T_002-0594b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《大乘入楞伽經》卷第二¶
+《大乘入楞伽經》卷第二¶
 ¶
 大周于闐國三藏法師¶
 實叉難陀奉　勅譯¶
